@@ -1,0 +1,341 @@
+Matches found on https://www.auto.co.il/
+ - Element: form, id: No id, name: forms
+Matches found on https://meinungsplatz.de/
+ - Element: form, id: No id, name: cookie
+Matches found on https://mingle.respondi.fr/
+ - Element: form, id: No id, name: cookie
+No matches found on https://ebank.esunbank.com.tw/
+No matches found on https://www.yazuya.com/
+Matches found on https://www.maximiles.com/
+ - Element: form, id: No id, name: cookie
+Matches found on https://www.maximiles.es/
+ - Element: form, id: No id, name: cookie
+Matches found on https://wanggapc.com/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://www.omypc.co.kr/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://mingle.respondi.de/
+ - Element: form, id: No id, name: cookie
+Matches found on https://www.mfac.or.kr/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://www.clubnuoveidee.it/
+ - Element: form, id: No id, name: cookie
+No matches found on https://www.co.becker.mn.us/
+Matches found on https://www.maximiles.it/
+ - Element: form, id: No id, name: cookie
+Matches found on https://www.cut-hikari.com/
+ - Element: img, id: title, name: title
+Matches found on https://mingle.respondi.it/
+ - Element: form, id: No id, name: cookie
+Matches found on https://www.ergonautas.upv.es/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://www.m3panel.dk/
+ - Element: form, id: No id, name: cookie
+Matches found on https://www.maximiles.gr/
+ - Element: form, id: No id, name: cookie
+Matches found on https://www.m3panel.fi/
+ - Element: form, id: No id, name: cookie
+Matches found on https://mingle.respondi.co.uk/
+ - Element: form, id: No id, name: cookie
+Matches found on https://www.maximiles.co.uk/
+ - Element: form, id: No id, name: cookie
+No matches found on https://www.luhacovice-lazne.com/
+Matches found on https://www.tuemarkt.de/
+ - Element: form, id: typeName, name: all
+Matches found on https://www.maximiles.nl/
+ - Element: form, id: No id, name: cookie
+No matches found on https://chamstudyland.com/
+Matches found on https://www.koicd.kr/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://meinungsplatz.at/
+ - Element: form, id: No id, name: cookie
+Matches found on https://www.hlholdings.co.kr/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://sphere.gamexp.com/
+ - Element: embed, id: No id, name: head
+Matches found on https://www.gomaths.ch/
+ - Element: form, id: No id, name: head
+Error fetching https://biztonsagabc.hu/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Matches found on https://www.constantine-hier-aujourdhui.fr/
+ - Element: img, id: No id, name: images
+Matches found on https://www.zipperenzo.nl/
+ - Element: form, id: No id, name: cookie
+Matches found on https://blessauto.kr/
+ - Element: iframe, id: hidden, name: hidden
+No matches found on https://www.kupele-sklene-teplice.com/
+No matches found on https://www.kupele-brusno.com/
+No matches found on https://simef.minagri.gob.cl/
+No matches found on https://old.municion.org/
+No matches found on https://www.trencianske.sk/
+Matches found on http://www.wolfcreekamphitheater.com/
+ - Element: iframe, id: ifr_hidden, name: hidden
+No matches found on https://www.kingsing.com/
+Matches found on https://www.maximiles.ie/
+ - Element: form, id: No id, name: cookie
+No matches found on https://www.rajecke.com/
+No matches found on https://www.smartaccounts.eu/
+No matches found on https://www.kupele-dudince.com/
+Matches found on https://meinungsplatz.ch/
+ - Element: form, id: No id, name: cookie
+Matches found on https://www.m3panel.se/
+ - Element: form, id: No id, name: cookie
+Matches found on http://dkore.net/
+ - Element: iframe, id: No id, name: hidden
+Matches found on https://www.mcmcaribbeanrealty.com/
+ - Element: img, id: No id, name: title
+No matches found on https://www.turcianske.sk/
+No matches found on https://www.sunflowers.sk/
+Matches found on https://standardprice.kr/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://www.laflyer.in/
+ - Element: form, id: No id, name: hidden
+No matches found on https://www.kupele-na-slovensku.sk/
+Error fetching http://www.djarena.ru/: HTTPConnectionPool(host='www.djarena.ru', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x10e609070>: Failed to resolve 'www.djarena.ru' ([Errno 8] nodename nor servname provided, or not known)"))
+Matches found on http://sisatotalnews.com/
+ - Element: iframe, id: No id, name: hidden
+ - Element: iframe, id: No id, name: hidden
+Matches found on https://mingle.respondi.ch/
+ - Element: form, id: No id, name: cookie
+Matches found on https://mingle.respondi.at/
+ - Element: form, id: No id, name: cookie
+No matches found on https://www.sunflowers-agency.cz/
+Matches found on http://www.beppuni.com/
+ - Element: img, id: title, name: title
+Error fetching https://roomrentalsingapore.com.sg/: 403 Client Error: Forbidden for url: https://roomrentalsingapore.com.sg/
+Matches found on https://www.m3panel.no/
+ - Element: form, id: No id, name: cookie
+Matches found on http://pgtour.co.kr/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://www.adnet-group.com/
+ - Element: img, id: No id, name: title
+No matches found on https://www.kupele-vysne-ruzbachy.com/
+No matches found on https://www.zohar-israel.com/
+Matches found on https://cointradestop.com/
+ - Element: iframe, id: No id, name: hidden
+Matches found on http://ff14.ffo.jp/
+ - Element: form, id: No id, name: title
+Matches found on https://nrpclassaction.com/
+ - Element: img, id: links, name: links
+No matches found on https://vac.sjas.gov.si/
+Matches found on https://www.cookingmama.com/
+ - Element: img, id: title, name: tt
+No matches found on https://www.bardejovske.sk/
+Error fetching https://www.vizdiszkont.hu/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Matches found on http://www.jortek.com.br/
+ - Element: iframe, id: No id, name: hidden
+Matches found on https://www.webusable.com/
+ - Element: img, id: No id, name: domain
+Matches found on https://www.ilfocolarecaminetti.it/
+ - Element: form, id: No id, name: cookie
+Matches found on http://shipscafe.net/
+ - Element: img, id: title, name: title
+Error fetching https://www.stoffeerdersunie.nl/: 403 Client Error: Forbidden for url: https://www.stoffeerdersunie.nl/
+Matches found on https://pro230407.prosell.kr/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://gomaths.ch/
+ - Element: form, id: No id, name: head
+Matches found on https://frenchbook.net/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://www.sangpae119.com/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://www.aquascape-cebu.com/
+ - Element: img, id: title, name: title
+Matches found on https://colchester.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on http://tetuwo181.web.fc2.com/
+ - Element: img, id: No id, name: title
+Error fetching https://www.stoffeerdersunie.be/: 403 Client Error: Forbidden for url: https://www.stoffeerdersunie.be/
+Matches found on https://12v.org/
+ - Element: img, id: No id, name: links
+Matches found on https://www.adamscountygis.com/
+ - Element: img, id: No id, name: title
+No matches found on https://www.hotelhistrion.com/
+No matches found on https://alkatreszplusz.hu/
+Matches found on https://coventry.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on https://hostedftp.com/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://menkyo119.com/
+ - Element: img, id: No id, name: title
+Matches found on https://admin.tworldfriends.co.kr/
+ - Element: iframe, id: No id, name: hidden
+No matches found on https://www.julu.com/
+Error fetching https://agrobio.elmedia.net/: 403 Client Error: Forbidden for url: https://agrobio.elmedia.net/bg/
+Error fetching https://stroiteli.elmedia.net/: 403 Client Error: Forbidden for url: https://stroiteli.elmedia.net/bg/
+Matches found on https://charlestown.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on https://www.chicotrujillo.com/
+ - Element: img, id: No id, name: links
+Matches found on http://www.rajhlinky.wz.cz/
+ - Element: iframe, id: I1, name: body
+Matches found on https://aimcontrollers.com/
+ - Element: img, id: header, name: head
+Matches found on https://otsegocountygis.mapxpress.net/
+ - Element: iframe, id: body, name: body
+No matches found on https://www.sunflowers-agency.pl/
+Matches found on https://hacona.com/
+ - Element: form, id: No id, name: cookie
+Matches found on https://www.arredamento-bologna-arredamenti.it/
+ - Element: form, id: No id, name: cookie
+Error fetching https://www.stoppingpoints.com/: 406 Client Error: Not Acceptable for url: https://www.stoppingpoints.com/
+Matches found on https://oneclickbusinesssolutions.com/
+ - Element: iframe, id: No id, name: hidden
+No matches found on https://sido.daegu.go.kr/
+Matches found on https://www.oncugrup.com.tr/
+ - Element: iframe, id: No id, name: hidden
+No matches found on https://coffre.damaris.pro/
+Matches found on https://brookfield.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on https://berlin.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on http://www.khrc.net/
+ - Element: img, id: No id, name: title
+ - Element: img, id: No id, name: links
+Matches found on https://finterstellar.com/
+ - Element: iframe, id: No id, name: hidden
+Matches found on https://alev-trans.ru/
+ - Element: form, id: No id, name: title
+ - Element: form, id: No id, name: title
+Matches found on https://westhaven.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on https://plymouth.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on https://www.goukei.com/
+ - Element: img, id: No id, name: title
+Matches found on https://www.unicampus.in/
+ - Element: iframe, id: No id, name: hidden
+Matches found on http://mackeyfi.somee.com/
+ - Element: iframe, id: No id, name: all
+Matches found on https://newington.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on https://doctor100.co.kr/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://www.a-tech-eng.com/
+ - Element: img, id: No id, name: title
+Matches found on http://www.atomica.co.uk/
+ - Element: form, id: No id, name: links
+Matches found on https://www.bluegrassrealty.com/
+ - Element: img, id: No id, name: title
+No matches found on https://pro230428.prosell.kr/
+Matches found on https://isitdown.co.uk/
+ - Element: form, id: No id, name: domain
+Matches found on https://www.inventum.hr/
+ - Element: form, id: domain, name: domain
+Matches found on https://www.icon-media.com/
+ - Element: iframe, id: No id, name: hidden
+Matches found on https://woodbury.mapxpress.net/
+ - Element: iframe, id: body, name: body
+No matches found on https://www.hotel-radium-palace.com/
+No matches found on https://www.seniorske-pobyty.info/
+No matches found on https://www.parallel-schallplatten.de/
+No matches found on https://www.hotel-velka-fatra.com/
+Error fetching https://backpacker.gr/: 502 Server Error: Bad Gateway for url: https://backpacker.gr/
+No matches found on https://www.pacificgroupbd.com/
+Matches found on https://www.nidami.com/
+ - Element: iframe, id: iframe_body, name: body
+Matches found on http://beppuni.com/
+ - Element: img, id: title, name: title
+Matches found on http://e.pl/
+ - Element: form, id: No id, name: domain
+Matches found on https://newhartford.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on https://shadowshroud.com/
+ - Element: img, id: No id, name: images
+Matches found on https://newbritain.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on https://milford.mapxpress.net/
+ - Element: iframe, id: body, name: body
+No matches found on https://www.kusatsu.org/
+No matches found on https://co.becker.mn.us/
+Matches found on https://koicd.kr/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://shelton.mapxpress.net/
+ - Element: iframe, id: body, name: body
+No matches found on http://shikokuhenro-tomonokai.jp/
+Matches found on https://www.koizumi-koumonka.com/
+ - Element: img, id: No id, name: title
+ - Element: img, id: No id, name: title
+Matches found on https://lillysoo29.prosell.kr/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://naugatuck.mapxpress.net/
+ - Element: iframe, id: body, name: body
+No matches found on https://school.videogameaudio.com/
+Matches found on https://hopkinton.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on http://www.danceworksmajesticsstudio.com/
+ - Element: iframe, id: ifr_hidden, name: hidden
+Matches found on https://www.ellenfcasperphd.com/
+ - Element: iframe, id: No id, name: body
+Matches found on https://at-cinq.com/
+ - Element: img, id: title, name: title
+No matches found on http://www.rallyetoulousesaintlouis.com/
+Error fetching https://www.shamanicjourneys.com/: 406 Client Error: Not Acceptable for url: https://www.shamanicjourneys.com/
+Matches found on https://suffield.mapxpress.net/
+ - Element: iframe, id: body, name: body
+No matches found on http://sido.jeju.go.kr/
+Matches found on http://www.sisatotalnews.com/
+ - Element: iframe, id: No id, name: hidden
+ - Element: iframe, id: No id, name: hidden
+No matches found on https://www.hotel-aphrodite.com/
+Matches found on https://woodbridge.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on https://cookingmama.com/
+ - Element: img, id: title, name: tt
+Matches found on https://oxford.mapxpress.net/
+ - Element: iframe, id: body, name: body
+No matches found on https://www.artsandopinion.com/
+Matches found on http://www.konishizokei.co.jp/
+ - Element: img, id: title, name: title
+Matches found on https://bristol.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on https://atypical.gr/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://with.mando.com/
+ - Element: iframe, id: hidden, name: hidden
+No matches found on https://www.vianocne-pobyty.info/
+Matches found on https://crest-ihec.jp/
+ - Element: img, id: title, name: title
+No matches found on https://chai-talk.artistchai.co.kr/
+Matches found on https://shrujanlldc.org/
+ - Element: iframe, id: No id, name: hidden
+No matches found on https://www.hotel-polana-brusno.com/
+Matches found on http://www.broadwaysalvage.com/
+ - Element: img, id: No id, name: images
+Matches found on https://www.pro-fusiononline.com/
+ - Element: img, id: No id, name: title
+Matches found on http://www.ssoc.chem.tohoku.ac.jp/
+ - Element: img, id: title, name: title
+Matches found on https://www.centredetirgranby.ca/
+ - Element: img, id: images, name: images
+Matches found on https://www.mettlerelectronics.com/
+ - Element: img, id: head, name: head
+Matches found on https://stand.bg/
+ - Element: form, id: No id, name: hidden
+Matches found on https://southwindsor.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on https://rabbit.prosell.kr/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://www.shorelandmanagement.org/
+ - Element: img, id: No id, name: title
+Matches found on http://www.brookedanielsphotography.com/
+ - Element: iframe, id: ifr_hidden, name: hidden
+No matches found on https://www.hotel-strand-vysne-ruzbachy.com/
+No matches found on https://www.hotel-radin.com/
+Matches found on https://southbury.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on https://seymour.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on https://gomumall.com/
+ - Element: iframe, id: hidden, name: hidden
+Matches found on https://trans-servise.com/
+ - Element: iframe, id: frame0, name: body
+Matches found on http://www.phildoylephoto.com/
+ - Element: iframe, id: ifr_hidden, name: hidden
+Matches found on https://www.hacona.com/
+ - Element: form, id: No id, name: cookie
+Matches found on https://preston.mapxpress.net/
+ - Element: iframe, id: body, name: body
+Matches found on https://webusable.com/
+ - Element: img, id: No id, name: domain
+Matches found on https://www.sas-net.co.jp/
+ - Element: img, id: body, name: body
